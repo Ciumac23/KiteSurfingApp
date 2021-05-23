@@ -1,2 +1,2 @@
 # KiteSurfingApp
-A mobile app which monitorise a entire data base with different spots for practicing a spot. Ability to get the list and lok for a perfect spot where you can practice kitesurfing.
+A mobile app which monitorise an entire data base with different spots for practicing kitesurfing. Ability to get the list and look for a perfect spot where you can practice it.
